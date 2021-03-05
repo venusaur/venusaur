@@ -3,6 +3,7 @@
   position: student; 
   display: male; 
   background: hobbyist; 
-  color: green
+  twitter: @v3nusaur;
+  email: venusaur@outlook.in;
 }
 ```
