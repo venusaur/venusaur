@@ -5,6 +5,6 @@
   display: male; 
   background: hobbyist; 
   twitter: @v3nusaur;
-  email: venuasuar@outlook.in;
+  email: venusaur@outlook.in;
 }
 ```
