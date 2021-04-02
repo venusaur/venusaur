@@ -1,8 +1,9 @@
 ```coffeescript
 #venusaur { 
   position: student; 
+  title: intern
   major: CS
   display: male; 
-  email: venusaur@outlook.in;
+  email: charizard@outlook.ie;
 }
 ```
