@@ -4,7 +4,7 @@
   title: intern
   major: CS
   display: male; 
-  languages: c++, js
+  languages: c++, java, js
   email: charizard@outlook.ie;
 }
 ```
