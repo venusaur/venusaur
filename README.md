@@ -4,6 +4,6 @@
   title: intern
   major: CS
   display: male; 
-  languages: c++, java, js
+  languages: c++, java, py
 }
 ```
