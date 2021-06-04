@@ -1,9 +1,8 @@
 ```coffeescript
 #venusaur { 
-  position: student; 
-  title: intern
+  position: intern; 
   major: CS
-  display: male; 
+  gender: male
   languages: c++, java, py
 }
 ```
