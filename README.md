@@ -4,7 +4,7 @@
   major: CS
   gender: male
   languages: c++, java
-  discord: HELLOWORLD#0001
+  discord: VENUSAUR#0001
 }
 
 ```
