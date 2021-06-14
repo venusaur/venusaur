@@ -4,7 +4,7 @@
   major: CS
   gender: male
   languages: c++, java
-  discord: VENUSAUR#0001
+  discord: libyan#0001
 }
 
 ```
