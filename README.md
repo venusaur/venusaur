@@ -1,7 +1,6 @@
 ```coffeescript
 #venusaur { 
-  position: intern; 
-  major: CS
+  position: student; 
   gender: male
   languages: c++
   discord: libyan#0001
