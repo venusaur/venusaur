@@ -3,7 +3,7 @@
   position: intern; 
   major: CS
   gender: male
-  languages: c++, java
+  languages: c++
   discord: libyan#0001
 }
 
