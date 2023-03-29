@@ -2,7 +2,7 @@
 #venusaur { 
   position: student; 
   gender: male
-  languages: c++
+  languages: c++, python
 }
 
 ```
