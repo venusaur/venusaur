@@ -1,4 +1,11 @@
-
+```coffeescript
+#venusaur { 
+  position: student; 
+  major: biochemistry / computer science
+  sex: male; 
+  email: charizard@outlook.ie;
+}
+```
 <p align="center">
   <a href="https://github.com/venusaur">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=venusaur&theme=radical&border=7F3FBF&background=0D1117" alt="venusaur's GitHub streak"/>
