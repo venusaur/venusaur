@@ -1,6 +1,6 @@
 ```coffeescript
 #venusaur { 
-  position: student; 
+  position: B.S. Biochemistry / Computer Science; 
   sex: male; 
   email: charizard@outlook.ie;
 }
