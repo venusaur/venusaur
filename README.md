@@ -1,33 +1,36 @@
-═══════════════════════════════
+<div align="center">
 
-        Pokédex No. 0003
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif" width="180" alt="Venusaur"/>
 
-         VENUSAUR
+</div>
 
-═══════════════════════════════
+```
+═══════════════════════════════════
+          POKéDEX No. 0003
+             VENUSAUR
+          The Seed Pokémon
+═══════════════════════════════════
+ TYPE          🌿 Grass  /  ☠️ Poison
+ SPECIES       Biochemistry Graduate
+ CLASSIFICATION  Student
+ ABILITY       Overgrow  ·  Chlorophyll
+ NATURE        Analytical
+ HABITAT       Research Labs
+───────────────────────────────────
+ WEAK TO             RESISTS
+   Tight deadlines     Hype cycles
+   Scope creep         FUD
+   Merge conflicts     Buzzword jargon
+───────────────────────────────────
+ RESEARCH INTERESTS
+   • Bioinformatics
+   • Machine Learning
+   • Healthcare AI
+═══════════════════════════════════
+```
 
-Type
-🌿 Grass
-☠ Poison
+<div align="center">
 
-Species
-Biochemistry Graduate
+![Metrics](./github-metrics.svg)
 
-Classification
-Student
-
-Ability
-Problem Solving
-
-Nature
-Analytical
-
-Habitat
-Research Labs
-
-Research Interests
-• Bioinformatics
-• Machine Learning
-• Healthcare AI
-
-═══════════════════════════════
+</div>
