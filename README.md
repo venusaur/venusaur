@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif" width="180" alt="Venusaur"/>
 
 </div>
@@ -30,7 +29,4 @@
 ```
 
 <div align="center">
-
-![Metrics](./github-metrics.svg)
-
 </div>
