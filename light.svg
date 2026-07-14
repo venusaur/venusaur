@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="560" viewBox="0 0 860 560" role="img" aria-label="Pokedex entry No. 0003 Venusaur — profile card (Light)">
+  <defs>
+    <linearGradient id="pk" gradientUnits="userSpaceOnUse" x1="0" y1="296" x2="0" y2="202">
+      <stop offset="0" stop-color="#8250df"/>
+      <stop offset="1" stop-color="#0969da"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="560" fill="#ffffff"/>
+  <rect x="10" y="10" width="840" height="540" rx="18" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+
+  <!-- header: pokedex lamps + title + status -->
+  <circle cx="44" cy="44" r="11" fill="#1b7c83">
+    <animate attributeName="opacity" dur="1.6s" repeatCount="indefinite" values="1;0.4;1" keyTimes="0;0.5;1"/>
+  </circle>
+  <circle cx="44" cy="44" r="11" fill="none" stroke="#1b7c83" stroke-width="2" opacity="0.35"/>
+  <circle cx="72" cy="44" r="4.5" fill="#cf222e"/>
+  <circle cx="88" cy="44" r="4.5" fill="#bf8700"/>
+  <circle cx="104" cy="44" r="4.5" fill="#1a7f37"/>
+  <text x="130" y="40" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#1f2328">POKéDEX</text>
+  <text x="130" y="55" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" letter-spacing="1" fill="#59636e">No. 0003</text>
+  <circle cx="742" cy="44" r="3.5" fill="#1a7f37"><animate attributeName="opacity" dur="1.1s" repeatCount="indefinite" values="1;0.15;1" keyTimes="0;0.5;1"/></circle>
+  <text x="832" y="48" text-anchor="end" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" letter-spacing="1.4" fill="#59636e">SCANNING</text>
+  <line x1="28" y1="70" x2="832" y2="70" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- name -->
+  <text x="30" y="120" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="1" fill="#1a7f37">VENUSAUR</text>
+  <text x="32" y="144" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#59636e">The Seed Pokémon</text>
+
+  <!-- specimen scan window (the mass spectrum) -->
+  <rect x="28" y="176" width="316" height="150" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="44" y="198" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.2" fill="#818b98">SPECTRAL SCAN</text>
+  <circle cx="324" cy="194" r="3" fill="#cf222e"><animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;0.1;1" keyTimes="0;0.5;1"/></circle>
+  <line x1="44" y1="296" x2="328" y2="296" stroke="#d0d7de" stroke-width="1"/>
+  <text x="328" y="314" text-anchor="end" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="9.5" fill="#818b98">m/z &#8594;</text>
+    <g>
+      <animate attributeName="opacity" dur="9s" repeatCount="indefinite"
+        values="0;1;1;0;0" keyTimes="0;0.05;0.82;0.9;1"/>
+      <line x1="51.9" y1="296" x2="51.9" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;264.5;264.5;264.5;296" keyTimes="0;0.0625;0.1025;0.9;0.97;1"/></line>
+      <line x1="65.3" y1="296" x2="65.3" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;281.6;281.6;281.6;296" keyTimes="0;0.0838;0.1238;0.9;0.97;1"/></line>
+      <line x1="80.3" y1="296" x2="80.3" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;244.8;244.8;244.8;296" keyTimes="0;0.1075;0.1475;0.9;0.97;1"/></line>
+      <line x1="92.9" y1="296" x2="92.9" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;286.8;286.8;286.8;296" keyTimes="0;0.1275;0.1675;0.9;0.97;1"/></line>
+      <line x1="110.3" y1="296" x2="110.3" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;233.0;233.0;233.0;296" keyTimes="0;0.155;0.195;0.9;0.97;1"/></line>
+      <line x1="126.0" y1="296" x2="126.0" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;269.7;269.7;269.7;296" keyTimes="0;0.18;0.22;0.9;0.97;1"/></line>
+      <line x1="142.6" y1="296" x2="142.6" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;255.3;255.3;255.3;296" keyTimes="0;0.2062;0.2462;0.9;0.97;1"/></line>
+      <line x1="160.0" y1="296" x2="160.0" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;284.2;284.2;284.2;296" keyTimes="0;0.2338;0.2738;0.9;0.97;1"/></line>
+      <line x1="175.7" y1="296" x2="175.7" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;238.2;238.2;238.2;296" keyTimes="0;0.2588;0.2988;0.9;0.97;1"/></line>
+      <line x1="197.8" y1="296" x2="197.8" y2="296" stroke="url(#pk)" stroke-width="3.0" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;213.3;213.3;213.3;296" keyTimes="0;0.2938;0.3338;0.9;0.97;1"/></line>
+      <line x1="203.0" y1="296" x2="203.0" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;242.1;242.1;242.1;296" keyTimes="0;0.3019;0.3419;0.9;0.97;1"/></line>
+      <line x1="208.1" y1="296" x2="208.1" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;271.0;271.0;271.0;296" keyTimes="0;0.31;0.35;0.9;0.97;1"/></line>
+      <line x1="225.4" y1="296" x2="225.4" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;251.3;251.3;251.3;296" keyTimes="0;0.3375;0.3775;0.9;0.97;1"/></line>
+      <line x1="242.8" y1="296" x2="242.8" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;263.2;263.2;263.2;296" keyTimes="0;0.365;0.405;0.9;0.97;1"/></line>
+      <line x1="260.2" y1="296" x2="260.2" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;234.3;234.3;234.3;296" keyTimes="0;0.3925;0.4325;0.9;0.97;1"/></line>
+      <line x1="277.5" y1="296" x2="277.5" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;276.3;276.3;276.3;296" keyTimes="0;0.42;0.46;0.9;0.97;1"/></line>
+      <line x1="294.9" y1="296" x2="294.9" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;256.6;256.6;256.6;296" keyTimes="0;0.4475;0.4875;0.9;0.97;1"/></line>
+      <line x1="311.4" y1="296" x2="311.4" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;280.2;280.2;280.2;296" keyTimes="0;0.4738;0.5138;0.9;0.97;1"/></line>
+      <line x1="324.1" y1="296" x2="324.1" y2="296" stroke="url(#pk)" stroke-width="1.8" stroke-linecap="round"><animate attributeName="y2" dur="9s" repeatCount="indefinite" values="296;296;268.4;268.4;268.4;296" keyTimes="0;0.4938;0.53;0.9;0.97;1"/></line>
+      <g>
+        <animateTransform attributeName="transform" type="translate" dur="9s" repeatCount="indefinite"
+          values="44,0;44,0;328,0;328,0" keyTimes="0;0.05;0.5;1"/>
+        <animate attributeName="opacity" dur="9s" repeatCount="indefinite"
+          values="0;0.85;0.85;0;0" keyTimes="0;0.05;0.49;0.52;1"/>
+        <line x1="0" y1="198" x2="0" y2="296" stroke="#1b7c83" stroke-width="3" opacity="0.18"/>
+        <line x1="0" y1="198" x2="0" y2="296" stroke="#1b7c83" stroke-width="1.1"/>
+        <circle cx="0" cy="296" r="2.4" fill="#1b7c83"/>
+      </g>
+    </g>
+
+  <!-- type + core stats -->
+  <text x="376" y="196" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.6" fill="#818b98">TYPE</text>
+  <rect x="440" y="183" width="92" height="26" rx="13" fill="#5fa84a"/><text x="486.0" y="200.5" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">🌿 Grass</text>
+  <rect x="542" y="183" width="100" height="26" rx="13" fill="#9b4fa0"/><text x="592.0" y="200.5" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">☠️ Poison</text>
+  <text x="376" y="236" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.6" fill="#818b98">SPECIES</text><text x="500" y="236" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">Biochemistry Graduate</text>
+  <text x="376" y="264" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.6" fill="#818b98">CLASSIFICATION</text><text x="500" y="264" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">Student</text>
+  <text x="376" y="292" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.6" fill="#818b98">ABILITY</text><text x="500" y="292" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">Overgrow · Chlorophyll</text>
+  <text x="376" y="320" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.6" fill="#818b98">NATURE</text><text x="500" y="320" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">Analytical</text>
+  <text x="376" y="348" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.6" fill="#818b98">HABITAT</text><text x="500" y="348" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">Research Labs</text>
+
+  <line x1="28" y1="382" x2="832" y2="382" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- weaknesses / resistances -->
+  <text x="30" y="410" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#cf222e">▾ WEAK TO</text>
+  <text x="448" y="410" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#1a7f37">▸ RESISTS</text>
+  <line x1="430" y1="392" x2="430" y2="470" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="35" cy="430" r="2.4" fill="#cf222e"/><text x="48" y="434" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2328">Tight deadlines</text>
+  <circle cx="35" cy="452" r="2.4" fill="#cf222e"/><text x="48" y="456" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2328">Scope creep</text>
+  <circle cx="35" cy="474" r="2.4" fill="#cf222e"/><text x="48" y="478" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2328">Merge conflicts</text>
+  <circle cx="451" cy="430" r="2.4" fill="#1a7f37"/><text x="464" y="434" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2328">Hype cycles</text>
+  <circle cx="451" cy="452" r="2.4" fill="#1a7f37"/><text x="464" y="456" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2328">FUD</text>
+  <circle cx="451" cy="474" r="2.4" fill="#1a7f37"/><text x="464" y="478" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2328">Buzzword jargon</text>
+
+  <line x1="28" y1="486" x2="832" y2="486" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- research interests -->
+  <text x="30" y="512" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.2" fill="#818b98">RESEARCH INTERESTS</text>
+  <rect x="32" y="520" width="132" height="26" rx="13" fill="none" stroke="#1a7f37" stroke-width="1.2" opacity="0.8"/><text x="98.0" y="537" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#1a7f37">Bioinformatics</text>
+  <rect x="176" y="520" width="148" height="26" rx="13" fill="none" stroke="#1a7f37" stroke-width="1.2" opacity="0.8"/><text x="250.0" y="537" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#1a7f37">Machine Learning</text>
+  <rect x="336" y="520" width="125" height="26" rx="13" fill="none" stroke="#1a7f37" stroke-width="1.2" opacity="0.8"/><text x="398.5" y="537" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#1a7f37">Healthcare AI</text>
+</svg>
